@@ -9,7 +9,7 @@ terraform {
     resource_group_name  = "shivesh_ROG1"
     storage_account_name = "shivstg01"
     container_name       = "blobstg"
-    key                  = "RG/terraform.tfstate"
+    key                  = "dev_RG/terraform.tfstate"
   }
 }
 
